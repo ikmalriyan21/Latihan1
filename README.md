@@ -12,7 +12,7 @@
 - CONFIG GLOBAL REPO
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
--![repolokal](https://github.com/ikmalriyan21/gambar1/blob/master/git.png)File README.md
+-![repolokal](https://github.com/ikmalriyan21/gambar1/blob/master/git.png)
 
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
@@ -21,7 +21,7 @@ $ git config --global user.email “nama_user”
 - $ mkdir latihan1 $ cd latihan1
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 - direktory aktif menjadi: d:\labs_pemrograman1\latihan1
-- ![repolokal](https://github.com/ikmalriyan21/gambar2/blob/master/git%201.png)File README.md berhasil dibuat. 
+- ![repolokal](https://github.com/ikmalriyan21/gambar2/blob/master/git%201.png) 
 
 ## Membuat repo lokal 1.2
 - jalankan perintah git init,untuk membuat repo lokal
@@ -34,7 +34,7 @@ $ git config --global user.email “nama_user”
 - disini kita akan coba buat satu file bernama README.md (text file)
 - $ echo “#Latihan 1” >> README.md
 - File README.md berhasil dibuat. 
-- ![Filebaru](https://github.com/ikmalriyan21/gambar3/blob/master/git%202.png)File README.md
+- ![Filebaru](https://github.com/ikmalriyan21/gambar3/blob/master/git%202.png)
 
 ## Menambahkan File baru pada repository
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
