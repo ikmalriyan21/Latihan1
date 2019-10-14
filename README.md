@@ -12,7 +12,7 @@
 - CONFIG GLOBAL REPO
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
-- https://github.com/ikmalriyan21/gambar1/blob/master/git.png
+-![repolokal](https://github.com/ikmalriyan21/gambar1/blob/master/git.png)File README.md
 
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
