@@ -1,5 +1,5 @@
 #latihan 1
-latihan 1
+
 ##Tutorial Cara menggunakan git
 
 ##Instalasi Git
@@ -12,7 +12,7 @@ selamat kalian sudah selesai mengisntal git .
 konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
 jika kalian tidak konfigurasi terlebih dahulu maka akan terjadi error saat menjalan kan perintah git init commit
 CONFIG GLOBAL REPO $ git config --global user.name “nama_user” $ git config --global user.email “nama_user”
-
+https://github.com/ikmalriyan21/gambar-1/blob/master/git.png
 Gitconfig
 
 ##Membuat Repo lokal
