@@ -64,4 +64,4 @@ $ git config --global user.email “nama_user”
 ## Clone Repository
 - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 - Untuk melakukan cloning, gunakan perintah git clone [url]
-- ![clone](C:/Users/user/Desktop/New%20folder/Capture8.PNG)
+- ![clone](https://github.com/ikmalriyan21/gambar8/blob/master/git%207.png)
